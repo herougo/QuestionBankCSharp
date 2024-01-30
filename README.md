@@ -8,16 +8,16 @@ Technologies Used:
 - JavaScript, React
 - Bootstrap
 
-### Key Screenshots
+## Key Screenshots
 
-Home Page
+### Home Page
 
 ![Home](Images/1-Home.png)
 
-Questions Layout
+### Questions Layout
 
 ![Questions Layout](Images/5-Questions-Layout.png)
 
-Create Question Page
+### Create Question Page
 
 ![Create Question](Images/2-Create-Question.png)
