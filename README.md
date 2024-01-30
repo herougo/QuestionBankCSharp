@@ -1,6 +1,12 @@
 # Question Bank
 
-A web app for organizing math questions in a tag-based system for studying purposes.
+Question Bank is a web app for practicing math questions. You can do the following.
+
+- Filter by course, difficulty, and topic
+- View full solutions
+- Automatically generate sample exams
+- Log in keep track of questions you've done
+- Add questions of your own
 
 Technologies Used:
 
