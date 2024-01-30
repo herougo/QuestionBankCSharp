@@ -12,10 +12,10 @@ Technologies Used:
 
 ![Home](Images/1-Home.png)
 
-![Questions Layout](5-Questions-Layout.png)
+![Questions Layout](Images/5-Questions-Layout.png)
 
-![Create Question](2-Create-Question.png)
+![Create Question](Images/2-Create-Question.png)
 
-![Create Tag](3-Create-Tag.png)
+![Create Tag](Images/3-Create-Tag.png)
 
-![Create Course](4-Create-Course.png)
+![Create Course](Images/4-Create-Course.png)
